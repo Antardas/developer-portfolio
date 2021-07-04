@@ -72,3 +72,7 @@ h2 {
     border-image: linear-gradient(to bottom, blue, cyan);
     border-image-slice: 1;
 }
+footer p {
+    text-align: center;
+    color: #696969;
+}
